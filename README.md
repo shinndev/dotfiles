@@ -1,2 +1,5 @@
 # dotfiles
-Awesomewm changable endless themes with weeb wallpapers :3
+bugs:\
+- weird focus problems
+- missing volume indictator
+
