@@ -9,9 +9,6 @@ bugs:
 - missing volume indicator
 - no auto detect themes currently, edit rc.lua
 
-### install
-move that shit in ~/.config
-
 ### info
 components and widgets in awesome/ are common among themes
 
