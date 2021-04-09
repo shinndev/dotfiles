@@ -1,18 +1,16 @@
 # dotfiles
 
 features:
+- theme system
 - widgets/components per theme
 - wallpaper switcher/favorite wallpaper
 
-bugs:
+problems:
 - weird focus problems
-- missing volume indicator
-- no auto detect themes currently, edit rc.lua
-
-### info
-components and widgets in awesome/ are common among themes
+- missing volume/brightness indicator
+- no auto detect themes currently, you need to edit rc.lua and add theme name to array
 
 ### usage
-left click on desktop switch theme\
+left click on desktop to switch theme\
 right click allows to hide all windows, so you can stare at wallpaper\
-middle click activates rofi
+middle click starts app menu
